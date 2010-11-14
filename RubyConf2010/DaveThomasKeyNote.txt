@@ -1,0 +1,63 @@
+**Key Note: Dave Thomas**
+
+talks about his brain, literally! showing MRI shots
+part of the brain was missing
+got sent for some tests: functional tests
+tests that failed: memory recall, and distinguishing voices 
+
+started with ruby -v 1.4.0
+wrote the book "Programming Ruby" for the pragprog. ruby -v 1.6.0
+documented every single method in the interpreter using rdoc
+rdoc: social experiment
+
+"I gotta thank you for the great cover of the Rails book. Im not even a programmer but when I saw those legs I had to get the book!"
+
+ruby -v 1.9.0 in 2007 failed because the library couldn't be ported
+
+ruby -v 1.9.2 2010 "best ruby ever"
+
+today release of "Programming Ruby 1.9": $10
+
+"If i can't remember the past, i most certainly can't remember the future"
+
+3 challenges: 
+
+* Inspire Someone (who's not like you)
+* Diversify yourself
+* Get Out of the Rut
+
+percentage of women 
+47% (working force), 25% (computations and mathematics), 5.7% (FLOSS), !.5% (rubyconf)
+
+The Girl's Engineering Club
+http://blog.softlayer.com/2010/the-girls-engineering-club
+
+Push yourself to learn:
+a new language next year
+not just read about it
+write at least '3000' (?) lines of code
+ship it
+
+haskell, python, scala, clojure, common lisp, IO, prolog, J, erlang
+
+
+Ruby is in danger of becoming a suburb
+
+cookie cutter
+homogenous
+judgmental
+high ceremony 
+== boring
+
+great minds fine tuning other people's ideas 
+
+i could do X better
+of course you could ...
+so what?
+
+Do something new
+Do something new worse...
+
+Pioneering happens when people don't know what they're doing is stupid or dangerous 
+
+and remember it's supposed to be fun

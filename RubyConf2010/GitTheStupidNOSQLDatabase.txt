@@ -1,0 +1,11 @@
+**Git: The Stupid NOSQL Database:**
+
+key/value store
+writing objects
+blob = content, git doesn't care what format it is
+git is a graph db
+track relationships with other nodes
+Trees
+commits: track of changes
+
+GitModel: ActiveModel compliant adapter for git that uses Grit

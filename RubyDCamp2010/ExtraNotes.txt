@@ -1,0 +1,3 @@
+rails bridge
+nubie ruby 
+meetup.com (nubie ruby)

@@ -1,0 +1,21 @@
+** Rails Deployment **
+
+Chef
+Capistrano
+Puppet 
+Moonshine
+Shadow puppet 
+Chef-solo
+
+Rush********
+
+necktie
+
+gists of cap recipes 
+
+vim tips on twitter
+bash tips on twitter
+command line fu
+
+
+-- matt et al

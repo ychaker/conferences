@@ -1,0 +1,97 @@
+**App Store:**
+
+$1 billion industry => $4B in 2012
+
+2B downloads
+
+100,000 apps
+
+75% are paid apps
+
+Games: 35%
+
+Social networking, photography ... 6%
+
+**Why is iPhone successful?**
+
+distribution mechanism
+
+user experience
+
+UI matters
+
+There is money to be EARNED.
+
+gotta work at it.
+
+**What do you need?**
+
+a Mac
+
+Apple SDK
+
+Devices are optional (don't need to start there)
+
+**Basic Rules:**
+
+No 3rd party background apps
+
+limited resources
+
+live in a sand box
+
+must use the published API
+
+Mobile dev != desktop dev
+
+very short time to interact with user
+
+focused, task driven
+
+view based
+
+**Framework pattern:**
+
+View -> View Controller
+
+XCode/interface builder
+
+
+**Simulator Issues:**
+
+No camera
+
+Single GPS
+
+Limited gesture and accelerometer support
+
+infinite memory and performance vs very limited on actual device
+
+lax enforcement of permissions vs very strict on actual device
+
+**App approval process:**
+
+it will take 2 weeks to be rejected or accepted each time
+
+they do test your app
+
+they will eventually catch HIG or License Violations
+
+
+**Now what?**
+
+Analytics (be upfront about it)
+
+Really had to make money with ad based apps
+
+Localization
+
+Two sales models: 
+
+1-$0.99 and sell a lot. marketing blitz. need to be in the top 100.
+
+2-steady, traditional app. there is a market for more expensive apps.
+
+New model: free app + in-app upgrade
+
+tap tap tap is a good company to look at for iPhone apps.

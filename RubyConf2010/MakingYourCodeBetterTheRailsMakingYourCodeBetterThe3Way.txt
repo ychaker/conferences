@@ -1,0 +1,28 @@
+**Making Your Code Better, the Rails 3 Way:**
+
+A lot of wisdom from the existing code
+have more respect for existing code base
+sometimes there's a reason for the WTF
+
+So you want to make a big change...
+need a plan
+clear on goals
+code is easy, process is hard
+
+
+Process:
+make changes on master (no need for too many branches, it gets harder to keep everyone on the same page)
+if on master, then you are responsible for keeping the code working
+avoid ratholes, easier when multiple people looking at code
+mistake: long lived branches
+keep existing tests PASSing
+make changes to code or tests, not both
+be realistic
+
+
+leave old code around, isolated, when refactoring and leaving the decision to breaking backwards compatibility for later
+break backwards compatibility on its own merits
+
+write acceptance tests sweet before refactoring
+CI makes a huge difference
+

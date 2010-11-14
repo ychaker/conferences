@@ -1,0 +1,33 @@
+**Hotspots with MetricFu:**
+
+what is MetricFu?
+combination of a lot of metrics in one gem
+code metrics in health of code, code coverage, code smells
+
+code complexity analysis 
+rcov
+reek: code smell detectors 
+roodi
+RailsBestPractices
+flog
+saikuro (pronounced like sychro)
+source control churn 
+
+combining multiple reports into one
+
+enter Hotspots 
+
+Parse Ruby. ruby_parser will give you abstract syntax tree of some given Ruby as nested S-Expressions
+used in quite a number of MetricFu metrics
+
+get line number of that method
+
+Hotspots magic rankifyer 
+
+The Hotspots code in MetricFu is really the hot spot code 
+
+if you run into problems running MetricFu, turn off rcov because it's the only one running things dynamically whereas everything else reads things statically
+
+if you see something with high churn it better be very well test and a good method, because everybody is in there all the time, including your bad developers
+
+2.0 release has been released yesterday (Nov 10th)

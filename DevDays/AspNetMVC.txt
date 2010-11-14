@@ -1,0 +1,27 @@
+**Competition:**
+
+Rails
+
+Django
+
+Convention over configuration
+
+Separation of concerns
+
+clean urls and markup
+
+
+**Design Goals:**
+
+does not replace web forms
+
+still runs on ASP.Net
+
+embrace the web
+
+extensible
+
+testable
+
+
+blah blah blah, Microsoft, blah blah blah, something about compiling, blah blah blah, i can do it better with RAILS :P

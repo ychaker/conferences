@@ -1,0 +1,21 @@
+** Cool Gems You Use **
+
+formtastic
+ancestry: ancestry tree (like nested pages in radiant)
+awesome nested set: close to ancestry
+request log analyzer
+dragonfly: image processor, image manager
+devise: authentication 
+CanCan : ability, permission gem by Ryan Bates
+fattur
+main
+shared
+arrayfields
+orderedhash
+whenever: cron manager
+foreigners: foreign key constraints in your db
+simpleconfg
+rush: shell that runs ruby
+inherited resources, resource controller
+pdfkit
+less (ruby gem) and more (rails plugin): css

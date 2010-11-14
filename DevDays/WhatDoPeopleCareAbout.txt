@@ -1,0 +1,14 @@
+need to have a model.
+
+the computer doesn't get to set the agenda.
+
+good features vs bad features.
+
+features that allow the users to do what THEY want (help users accomplish their goals) vs 
+features that interrupt users.
+
+Elegance: the modesty not to draw attention to the new features.
+
+Less features = more elegant design.
+
+Simplicity vs Power

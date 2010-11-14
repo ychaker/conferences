@@ -1,0 +1,126 @@
+**App Engine:**
+
+appengine.google.com
+
+Launch: April 2008
+
+Paid Use: Feb 09
+
+Java Support: May 09
+
+Latest: 1.2.7: October 09
+	* Incoming Email
+	* XMPP Support
+
+Request -> App Engine -> Response
+
+ready to scale
+
+(Google Moderator: tinyurl.com/gae-dd09)
+
+**Dynamic Content:**
+
+Java xor Python
+
+Sandboxed
+	* No file writes
+	* No sockets
+	* No spawning threads/processes
+
+Smart about caching
+
+Fairly standard CGI framework
+
+Measured and instrumented
+
+**Datastore:**
+
+Based on BigTable, transitioning to MegaStore
+
+ACID Compliant
+
+replicated across Data Centers
+
+**Memcache:**
+
+Arbitrary key/value store
+
+Similar API to memcached
+
+get,set
+
+get_multi, set_multi for speed
+
+Namespace Support
+
+IMB limit per entry
+
+Free Quota 8.6M/day, 48K/min (800/sec)
+
+**Authentication:**
+
+@gmail.com
+
+Apps for domain
+
+Admin privileges 
+
+
+**Web Hooks Pattern:**
+
+Incoming data/operations to perform are URLs with POST data
+
+Handled same as web request
+
+
+Django Templates built in, Variable substitution, function calls, loops, etc
+
+Can add your own Python template lib
+
+**Developing w/ App Engine:**
+
+Local test server
+
+Write your code, html, etc on local machine
+
+Send code to App Engine
+
+Monitor in App Engine Admin Console
+
+**Quotas:**
+
+measure everything
+
+34 global quotas in Dashboard
+
+Individual quotas: request size time amount of data
+
+Exceptions thrown when hit 
+
+Free and paid
+
+**The Zen of Quotas:**
+
+Meet the quotas ad you will be scalable
+
+No full text search in App Engine Datastore
+
+**Hybrid APp Engine Webapps:**
+
+Do full text search with something else (SOLR)
+
+Serve large files with S3
+
+Server videos with YouTube
+
+Run large batch jobs with EC2
+
+**Challenges:**
+
+Parsing questionable data
+
+Integration w/ Social Networks
+
+Google Bas is an Odd Duck
+
+Some App Engine Outages

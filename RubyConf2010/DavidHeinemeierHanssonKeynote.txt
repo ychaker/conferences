@@ -1,0 +1,14 @@
+**David Heinemeier Hansson - Keynote:**
+
+why ruby?
+
+the keyword unless
+the community
+testing
+beautiful code
+
+refinements on the language
+like array.second
+
+the programming equivalent of getting your balls fondled at security is type safety 
+

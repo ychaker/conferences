@@ -1,0 +1,39 @@
+**jQuery:** 
+
+Write less, Do more
+
+changes the way you write JavaScript
+
+it's just like reading english: 'take this element and do this with it'
+
+**Method Calls:**
+
+safe (0, 1, more elements)
+
+no need for loop
+
+some operate on first element
+
+**Chaining:**
+
+some methods modify chain
+
+.end() to get back to previous
+
+most methods are chainable
+
+when the previous method takes time to complete, the chained method will execute immediately and won't wait, unless it's performing the same action (eg. animations will wait for previous animations to finish) 
+
+**jQuery API:**
+
+DOM Manip. (traversing, attributes, css/styles, DOM construction, overloaded, optional context)
+
+Events
+
+Animation
+
+Ajax
+
+separation between content and behavior (similar to use of CSS for separation of content and presentation) 
+
+

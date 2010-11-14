@@ -1,0 +1,30 @@
+** Active Relations **
+
+-- Suggs
+
+AREL is the abstraction of the relational engine in the db into ruby.
+query optimization engine
+
+operations: select, rename, union, project, product, difference
+
+closure of operations: in a set, the closure of the operation is when the operation is performed on members of the set, it produces another member of the set.
+
+AREL: Active Relational Algebra
+
+github.com/rails/arel
+
+LINQ to Ruby
+
+ActiveRecord:Relations != Arel:Relations
+
+Arel algebra
+Generic Compiler
+
+Engine: memory, sql
+
+a method that returns an array, should always return an array (not null)
+
+class YourClassName
+	include Relation
+end
+

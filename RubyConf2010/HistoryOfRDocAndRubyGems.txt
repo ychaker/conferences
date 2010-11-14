@@ -1,0 +1,17 @@
+**History of RDoc and RubyGems:**
+
+gem is a tar file, inside that tar file is a gzip file
+signed gems
+require_gem
+library stubs
+problems with multiple version or multiple gems having the same file
+in Ruby 1.9 it's built in
+
+used to be one big YAML file
+so incremental updates were added
+
+at first two installers: Gem::Installer and Gem::RemoteInstaler
+wasn't automatic enough
+
+rubygems-test to test your gems
+

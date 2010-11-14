@@ -1,0 +1,9 @@
+**The Polite Programmer's Guide to Ruby Etiquette:**
+
+great talk, funny presenters
+use your code carefully
+
+use super when calling method_missing, define your responds_to? for the method missing you've implemented
+extend classes instead of changing them if you don't own the code
+
+call super when inheriting vertically, extend when inheriting horizontally (something along those lines)

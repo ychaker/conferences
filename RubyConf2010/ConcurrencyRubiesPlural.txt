@@ -1,0 +1,29 @@
+**Concurrency: Rubies, Plural:**
+
+Concurrency matters
+multicore processors/multi processor chips
+diminishing returns if we don't care about concurrency
+ruby doesn't make it easy
+using other languages to solve the problem
+erlang, go, clojure, icon for inspiration
+
+
+**coroutines:**
+
+synchronizing via transfer of control
+function you can suspend and then resume from the point you suspended it
+returns a value
+
+ruby fibers
+does coexpressions
+bound to a single thread
+library support for full coroutines
+
+
+
+processes
+
+
+
+in ruby, enumeralble are mostly naturally concurrent 
+

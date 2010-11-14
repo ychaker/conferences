@@ -1,0 +1,35 @@
+** Browser Testing **
+
+Selenium: 
+ * speed issues
+ * cross browser issues
+
+*********Sauce Labs: video capture, playback, flash testing
+
+Testerfield
+specjour
+
+headless testing: speed advantage
+
+accuracy vs speed
+
+Selnium: non tech people can drive tests
+
+capybara? 
+
+holygrail
+
+
+rspec for js:
+ * jspec
+ * jasmine: favorite!
+ * evergreen: works with jasmine 
+ * jqunit
+
+test swarm
+
+silenium-client gem
+
+testing community 
+
+perfect tester: headless, faster than browsers, trust worthy to simulate the browser perfectly, no rendering engine. 

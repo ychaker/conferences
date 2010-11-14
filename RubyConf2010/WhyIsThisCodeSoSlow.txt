@@ -1,0 +1,48 @@
+**ZOMG Why is this Code So Slow?:**
+
+@tenderlove
+
+the best talk! 
+
+AREL
+AST manipulation and translation
+
+Prepared Statement Caching
+
+usually slow code is linked to bad code, we can make it faster if we get rid of bad code
+
+what is fast enough?
+do people notice it?
+what is it compared to?
+finishes in reasonable amount of time: relative
+should improve only the code that matters
+
+
+performance degraded
+need benchmarks 
+
+reduce: method calls, branching and looping, objects
+
+same thing to achieve clean code
+
+therefor clean code == performant code
+
+ActiveRecord 3.0 5x slower than 2.3.5
+
+after benchmarking:
+double the number of calls to Time.now (Time and Date are the slowest ruby libraries)
+now ActiveRecord is only 2x slower
+
+Big O => OMG
+when Big O gets big enough, you represent O with a Z => ZOMG
+
+AREL O(n2)
+
+should be AST + Visitor and O(n)
+
+=> should rewrite
+
+now O(n), 2x faster, DRY
+
+
+
